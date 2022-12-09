@@ -22,7 +22,11 @@ This guide is different. It's aimed at a fourth group (⭐) that wants to build 
 * [Jordan talks about the origins and early iterations of the Metaplex Token Standard](https://www.youtube.com/watch?v=vAXfxgM9xCw)
 
 ## What Tools or Resources should I look into?
-* Human-Friendly Technical Guide, aka the "Solana Cookbook"
+* Short youtube series on Solana Fundamentals
+  * link: https://www.youtube.com/playlist?list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm
+* Deeper technical development course modules
+  * link: https://github.com/unboxed-software/solana-course
+* Human-Friendly Technical Guide to many concepts with code samples, aka the "Solana Cookbook"
   * link: https://solanacookbook.com/
 * Web-app client for Solana (great resource for seeing how to accomplish certain tasks or interactions)
   * link: https://bettercallsol.dev/
